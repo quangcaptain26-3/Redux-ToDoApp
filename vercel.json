@@ -5,14 +5,14 @@
       "use": "@vercel/static"
     },
     {
-      "src": "src/**/*.tsx",
-      "use": "@vercel/node"
+      "src": "dist/**/*.js",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/index.html"
+      "dest": "/dist/$1"
     }
   ]
 }
