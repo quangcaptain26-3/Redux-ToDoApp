@@ -10,10 +10,7 @@
 
 ---
 
-## 🗂️ Thống Kê Ngôn Ngữ
-
-![image1](image1)
-
+## 🗂️ Ngôn ngữ được sử dụng
 - **TypeScript:** 96.7%
 - **JavaScript:** 2.2%
 - **HTML:** 1.1%
