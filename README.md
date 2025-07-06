@@ -1,25 +1,37 @@
 # Redux ToDoApp
 
 <p align="center">
-  <img src="https://redux.js.org/img/redux-logo-landscape.png" height="60"/>
-  <img src="https://vitejs.dev/logo.svg" height="60"/>
-  <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" height="60"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="60"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="60"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 ---
 
-## 🗂️ Ngôn ngữ được sử dụng
+## 🧑‍💻Ngôn ngữ sử dụng trong mã nguồn
+
+![image1](image1)
+
 - **TypeScript:** 96.7%
 - **JavaScript:** 2.2%
 - **HTML:** 1.1%
 
 ---
 
-## 📝 Mô tả
+## 📝 Mô tả Ứng Dụng
 
-**Redux ToDoApp** là ứng dụng quản lý công việc (ToDo) được xây dựng với React, Redux, TypeScript và Vite. Ứng dụng này giúp bạn học cách quản lý state hiệu quả với Redux, đồng thời áp dụng các công nghệ hiện đại trong phát triển frontend.
+**Redux ToDoApp** là ứng dụng quản lý công việc cá nhân (To-Do List) được xây dựng hiện đại với React, Redux và TypeScript, sử dụng Vite làm công cụ phát triển.  
+Ứng dụng cho phép bạn:
+
+- Thêm, sửa, xóa các công việc cần làm.
+- Đánh dấu công việc đã hoàn thành hoặc chưa hoàn thành.
+- Lọc danh sách công việc theo trạng thái (tất cả, đã hoàn thành, chưa hoàn thành).
+- Quản lý trạng thái toàn bộ ứng dụng với Redux để đảm bảo hoạt động ổn định, dễ dàng mở rộng và bảo trì.
+- Trải nghiệm hiệu năng cao nhờ Vite và TypeScript.
+
+Sản phẩm hướng đến việc giúp bạn nắm vững kiến thức về Redux thông qua thực hành thực tế, đồng thời là mẫu code tham khảo tiêu chuẩn cho các dự án quản lý state phức tạp.
 
 ---
 
