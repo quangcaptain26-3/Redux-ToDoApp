@@ -11,9 +11,6 @@
 ---
 
 ## 🧑‍💻Ngôn ngữ sử dụng trong mã nguồn
-
-![image1](image1)
-
 - **TypeScript:** 96.7%
 - **JavaScript:** 2.2%
 - **HTML:** 1.1%
